@@ -1,5 +1,6 @@
 # Locator-in-Python
-Write a command line application that takes a string and navigates the file system looking for either a file or directory with the name of the string that was passed. The output should be the absolute path, (full path) to the directory or file.
+
+Writing a python command line application that takes a string and navigates the file system looking for either a file or directory with the name of the string that was passed. The output should be the absolute path, (full path) to the directory or file.
 
 The arguments are as follows:
 
